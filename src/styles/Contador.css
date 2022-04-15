@@ -1,0 +1,18 @@
+.cuerpoContador{
+    text-align: center;
+    background-color: #7efcfc;
+    
+    padding-top: 250px;
+}
+
+
+
+.cuerpoContador div {
+    display: inline-block;
+    font-size: 150px;
+   
+    background: #74EBD5 linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+color: rgb(10, 187, 128);
+align-items: center;
+padding: 10px;
+}
